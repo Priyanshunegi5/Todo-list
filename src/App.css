@@ -31,3 +31,14 @@ li {
 body{
 background-color: rgb(65, 58, 167);
 }
+h1{
+  font-size: 15vh;
+}
+.btn{
+  height: 43px;
+  width: 66px;
+}
+.box{
+  height: 33px;
+  width: 266px;
+}

@@ -59,7 +59,7 @@ function App() {
       <h1>Todo List</h1>
 
  
-      <input
+      <input className="box"
         type="text"
         placeholder="Add an item..."
         value={newItem}
@@ -67,7 +67,7 @@ function App() {
       />
 
   
-      <button onClick={() => addItem()}>Add</button>
+      <button className="btn" onClick={() => addItem()}>Add</button>
 
     
       <ul>
