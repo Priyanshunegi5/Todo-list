@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Priyanshunegi5/todo-list.git/static/css/main.95d61b9b.css",
-    "main.js": "/Priyanshunegi5/todo-list.git/static/js/main.0afcef68.js",
-    "static/js/787.bc7d429a.chunk.js": "/Priyanshunegi5/todo-list.git/static/js/787.bc7d429a.chunk.js",
-    "index.html": "/Priyanshunegi5/todo-list.git/index.html",
-    "main.95d61b9b.css.map": "/Priyanshunegi5/todo-list.git/static/css/main.95d61b9b.css.map",
-    "main.0afcef68.js.map": "/Priyanshunegi5/todo-list.git/static/js/main.0afcef68.js.map",
-    "787.bc7d429a.chunk.js.map": "/Priyanshunegi5/todo-list.git/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/to-list/static/css/main.f4116a3a.css",
+    "main.js": "/to-list/static/js/main.24cdebb0.js",
+    "static/js/787.bc7d429a.chunk.js": "/to-list/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/to-list/index.html",
+    "main.f4116a3a.css.map": "/to-list/static/css/main.f4116a3a.css.map",
+    "main.24cdebb0.js.map": "/to-list/static/js/main.24cdebb0.js.map",
+    "787.bc7d429a.chunk.js.map": "/to-list/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95d61b9b.css",
-    "static/js/main.0afcef68.js"
+    "static/css/main.f4116a3a.css",
+    "static/js/main.24cdebb0.js"
   ]
 }
