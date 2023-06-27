@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Priyanshunegi5.github.io/todo-list.git",
+  git remote add origin https://github.com/gitname/react-gh-pages.git"homepage": "https://github.com/Priyanshunegi5.github.io/todo-list.git",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
