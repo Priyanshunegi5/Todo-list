@@ -37,8 +37,10 @@ h1{
 .btn{
   height: 43px;
   width: 66px;
+  border-radius: 3px;
 }
 .box{
   height: 33px;
   width: 266px;
+  border-radius: 3px;
 }
